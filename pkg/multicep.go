@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/JonecoBoy/multiCEP/external"
+	"github.com/JonecoBoy/multiCEP/pkg/external"
 	"log"
 	"net/http"
 	"strings"
