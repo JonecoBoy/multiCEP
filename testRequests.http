@@ -1,0 +1,6 @@
+### health check
+GET localhost:8080/
+
+### CEP
+
+GET localhost:8080/cep/20541155
