@@ -1,3 +1,3 @@
 - executar algum dos executaveis ou via go run multicep.go
-- Enviar alguma request para localhost:8080/cep/<cepCode>
+- Enviar alguma request para localhost:8080/cep/"cepCode"
 - O retorno aparecerá no console e também na resposta.
